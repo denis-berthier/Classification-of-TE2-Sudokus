@@ -15,7 +15,7 @@ The eleven-26370 folder includes: <br>
 - the SER.txt file, containing the SER ratings of all these puzzles, mainly used in [HCCS] to compute the vague correlation between the SER and the BpB classification.<br>
 
 Results computed with [SudoRules] for a sublist of 1,278 puzzles were published as Table 11.2 and followig remarks in [PBCS]; they were used to check that the [SudoRules] and [SHC] results coincided.<br>
-The detailed results given here for the full list of puzzles were used in Table 1.2 of [HCCS], an extension of Table 11.2 of [PBCS].<br><br>
+The detailed results given here for the full list of puzzles were used in Table 2.2 of [HCCS], an extension of Table 11.2 of [PBCS].<br><br>
 
 
 
